@@ -1,0 +1,20 @@
+.header-wrap {
+    display: flex;
+    justify-content: space-around;
+}
+
+.center-wrap {
+    flex-basis: 700px;
+}
+
+.center-ul {
+    display: flex;
+    justify-content: center;
+}
+.center-ul > li {
+    list-style: none;
+    flex-basis: 65px;
+    margin: 3px 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
